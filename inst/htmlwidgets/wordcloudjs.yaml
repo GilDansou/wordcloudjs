@@ -1,0 +1,6 @@
+ dependencies:
+  - name: wordcloudjs
+    version: 1.0.1
+    src: htmlwidgets/lib
+    script:
+      - tagcanvas.min.js
